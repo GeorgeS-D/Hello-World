@@ -1,0 +1,5 @@
+I'm studying Git and GitHub.
+
+This file was created by EditPad Lite on my desktop.
+
+I've moved it from the desktop into the "Hello-World" directory on my desktop.
